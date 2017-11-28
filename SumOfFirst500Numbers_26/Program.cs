@@ -12,7 +12,7 @@ namespace SumOfFirst500Numbers_26
         {
             // №26 Write a C# program to compute the sum of the first 500 prime numbers.
 
-           
+            Console.WriteLine("Just for test");
 
             Console.ReadKey();
         }
