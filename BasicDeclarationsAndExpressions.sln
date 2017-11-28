@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDeclarationsAndExpressions", "BasicDeclarationsAndExpressions\BasicDeclarationsAndExpressions.csproj", "{E4B81117-7FEB-4DBC-AB64-4FFD7C40D016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfFirst500Numbers_26", "SumOfFirst500Numbers_26\SumOfFirst500Numbers_26.csproj", "{46FD529A-7037-4842-98C7-B1BA44B71C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B81117-7FEB-4DBC-AB64-4FFD7C40D016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B81117-7FEB-4DBC-AB64-4FFD7C40D016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B81117-7FEB-4DBC-AB64-4FFD7C40D016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B81117-7FEB-4DBC-AB64-4FFD7C40D016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FD529A-7037-4842-98C7-B1BA44B71C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FD529A-7037-4842-98C7-B1BA44B71C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FD529A-7037-4842-98C7-B1BA44B71C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FD529A-7037-4842-98C7-B1BA44B71C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
