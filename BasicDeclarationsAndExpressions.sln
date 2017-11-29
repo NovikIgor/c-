@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSizeInBytes_29", "FindS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertHexadecimalNumberToDecimal_30", "ConvertHexadecimalNumberToDecimal_30\ConvertHexadecimalNumberToDecimal_30.csproj", "{522F4CC1-813E-4BFF-ADDA-28055EA6932A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyCorrespondingElementsOfTwoIntArrays_31", "MultiplyCorrespondingElementsOfTwoIntArrays_31\MultiplyCorrespondingElementsOfTwoIntArrays_31.csproj", "{CAB33859-83F0-4C7A-BD1C-AC4C399762DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{522F4CC1-813E-4BFF-ADDA-28055EA6932A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{522F4CC1-813E-4BFF-ADDA-28055EA6932A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{522F4CC1-813E-4BFF-ADDA-28055EA6932A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB33859-83F0-4C7A-BD1C-AC4C399762DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB33859-83F0-4C7A-BD1C-AC4C399762DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB33859-83F0-4C7A-BD1C-AC4C399762DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB33859-83F0-4C7A-BD1C-AC4C399762DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
