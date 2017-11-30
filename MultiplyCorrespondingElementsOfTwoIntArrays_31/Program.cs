@@ -11,7 +11,6 @@ namespace MultiplyCorrespondingElementsOfTwoIntArrays_31
         static void Main(string[] args)
         {
             // №31 Write a C# program to multiply corresponding elements of two arrays of integers.
-            int s, x;
 
             int[] arr1 = new int[5] {1, 12, 10, 4, 54};
             int[] arr2 = {3, 10, 17, 24, 4};
